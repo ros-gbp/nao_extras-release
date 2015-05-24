@@ -1,0 +1,28 @@
+ros-jade-nao-extras (0.2.2-0utopic) utopic; urgency=high
+
+  * comply to the new naoqi organization
+  * Contributors: Vincent Rabaud
+
+ -- Vincent Rabaud <vincent.rabaud@gmail.com>  Wed, 12 Nov 2014 23:00:00 -0000
+
+ros-jade-nao-extras (0.2.1-0utopic) utopic; urgency=high
+
+  * Fix package.xml files
+  * Catkinization of nao_extras, based on commit cb7aedce3c7a3ea3391319f0b7e9aeb78ed13233
+  * Contributors: Armin Hornung
+
+ -- Vincent Rabaud <vincent.rabaud@gmail.com>  Sat, 06 Sep 2014 22:00:00 -0000
+
+ros-jade-nao-extras (0.2.0-0utopic) utopic; urgency=high
+
+
+
+ -- Vincent Rabaud <vincent.rabaud@gmail.com>  Fri, 25 Oct 2013 22:00:00 -0000
+
+ros-jade-nao-extras (0.1.0-0utopic) utopic; urgency=high
+
+
+
+ -- Vincent Rabaud <vincent.rabaud@gmail.com>  Mon, 29 Jul 2013 22:00:00 -0000
+
+
