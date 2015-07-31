@@ -1,0 +1,12 @@
+Source: ros-jade-nao-extras
+Section: misc
+Priority: extra
+Maintainer: Vincent Rabaud <vincent.rabaud@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-jade-catkin
+Homepage: http://www.ros.org/wiki/nao_extras
+Standards-Version: 3.9.2
+
+Package: ros-jade-nao-extras
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-jade-nao-path-follower, ros-jade-nao-teleop
+Description: Extra tools for the Nao robot: teleoperation with a gamepad and path following. Renamed from the nao_common stack.
