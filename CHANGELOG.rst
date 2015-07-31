@@ -2,6 +2,9 @@
 Changelog for package nao_extras
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.3.0 (2015-07-31)
+------------------
+
 0.2.2 (2014-11-13)
 ------------------
 * comply to the new naoqi organization
