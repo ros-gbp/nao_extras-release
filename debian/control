@@ -1,0 +1,12 @@
+Source: ros-indigo-nao-extras
+Section: misc
+Priority: extra
+Maintainer: Vincent Rabaud <vincent.rabaud@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin
+Homepage: http://www.ros.org/wiki/nao_extras
+Standards-Version: 3.9.2
+
+Package: ros-indigo-nao-extras
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-nao-path-follower, ros-indigo-nao-teleop
+Description: Extra tools for the Nao robot: teleoperation with a gamepad and path following. Renamed from the nao_common stack.
